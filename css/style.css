@@ -3,6 +3,10 @@ header
     color: brown;
     text-align: center;
 }
+main
+{
+    background-color: chocolate;
+}
 footer
 {
     background-color: chartreuse;
