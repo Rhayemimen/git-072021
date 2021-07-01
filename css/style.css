@@ -1,0 +1,10 @@
+header
+{
+    color: brown;
+    text-align: center;
+}
+footer
+{
+    background-color: chartreuse;
+    text-transform: capitalize;
+}
